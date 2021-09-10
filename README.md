@@ -10,3 +10,4 @@ Blog posts:
    * editing this file for auto build
    * test2
    * test3
+   * test4
